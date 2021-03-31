@@ -1,5 +1,5 @@
 # Dummychain
-A fully functional Decentralized,secured BlockChain prototype having consensus algorithms,broadcastingsystem,proof of work algorithm,Hashing algorithms usingSHA256.<br/>
+A fully functional Decentralized,secured BlockChain prototype having consensus algorithms,broadcasting system,proof of work algorithm,Hashing algorithms usingSHA256.<br/>
 Users can Record transaction,Mine a block and get Bitcoin as reward.<br/>
 Users can get details of various blocks and transactions using correct SHA256 hashcode in block-explorer.
 
