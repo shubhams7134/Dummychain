@@ -1,4 +1,7 @@
 # Dummychain
+AfullyfunctionalDecentralized,securedBlockChainprototypehavingconsensusalgorithms,broadcastingsystem,proofofworkalgorithm,HashingalgorithmsusingSHA256.<br/>
+UserscanRecordtransaction,MineablockandgetBitcoinasreward.<br/>
+UserscangetdetailsofvariousblocksandtransactionsusingcorrectSHA256hashcodeinblockexplorer.
 
 
 ![BCHAN_1_NEW](https://user-images.githubusercontent.com/62961083/113187802-e7578180-9276-11eb-9106-40c4c6a079ec.png)
