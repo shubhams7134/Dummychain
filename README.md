@@ -1,7 +1,7 @@
 # Dummychain
-AfullyfunctionalDecentralized,securedBlockChainprototypehavingconsensusalgorithms,broadcastingsystem,proofofworkalgorithm,HashingalgorithmsusingSHA256.<br/>
-UserscanRecordtransaction,MineablockandgetBitcoinasreward.<br/>
-UserscangetdetailsofvariousblocksandtransactionsusingcorrectSHA256hashcodeinblockexplorer.
+A fully functional Decentralized,secured BlockChain prototype having consensus algorithms,broadcastingsystem,proof of work algorithm,Hashing algorithms usingSHA256.<br/>
+Users can Record transaction,Mine a block and get Bitcoin as reward.<br/>
+Users can get details of various blocks and transactions using correct SHA256 hashcode in block-explorer.
 
 
 ![BCHAN_1_NEW](https://user-images.githubusercontent.com/62961083/113187802-e7578180-9276-11eb-9106-40c4c6a079ec.png)
